@@ -106,7 +106,7 @@ public class VarastoTest {
     public void varastoonEiMeneYlimaaraista() {
         varasto.lisaaVarastoon(11);
         
-        assertEquals(9, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(10, varasto.getSaldo(), vertailuTarkkuus);
     }
     
     @Test
