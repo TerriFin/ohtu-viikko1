@@ -9,3 +9,7 @@ gradle-app.setting
 !gradle-wrapper.jar
 
 .gradletasknamecache
+/NHL-Tilastot/build/
+/NHL-Tilastot/.nb-gradle/
+/riippuvuuksienInjektointi1/build/
+/riippuvuuksienInjektointi1/.nb-gradle/
